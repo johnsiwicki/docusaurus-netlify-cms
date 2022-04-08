@@ -1,9 +1,9 @@
 module.exports = {
-  title: 'TH Design System 4.0',
+  title: 'TH Design System 4',
   tagline: 'The Spot',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
